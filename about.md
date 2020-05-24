@@ -18,8 +18,7 @@ permalink: /about/
 ----------
 * [ブログ(Medium)](https://medium.com/openkawasaki)
 * [チャット (Slack)](https://openkawasaki.slack.com)
-    - [Slackに参加する](https://join.slack.com/t/openkawasaki/shared_invite/enQtMzUxMTc3OTc5NDc2LWRlOGRiMDdlY2YzZWI2OWI5NjcxM2I3YzJkNTg5YzQ5ZTk1ODYyNDdmZjFhMjJjZWI3OWUzMTA4ZTYzMDZjNGM)
-* [GitHub](https://github.com/openkawasaki/)
+    - [Slackに参加する](https://join.slack.com/t/openkawasaki/shared_invite/zt-4hbuav6c-Ttza18ObLreA6JZ6mvcyIw)* [GitHub](https://github.com/openkawasaki/)
 
 関連サイト
 ----------------
