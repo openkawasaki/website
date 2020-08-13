@@ -14,7 +14,7 @@ permalink: /projects/
 
 
 ## 地域LINEボット「小杉・新丸子グルメBot」
-地域LINEボット「小杉・新丸子グルメBot」として、地域の飲食店の情報を発信する、チャットボット開発をしてます。
+地域LINEボット「小杉・新丸子グルメBot」として、地域の飲食店の情報を発信するチャットボット開発をしてます。
 
 * かわさき市民活動センター[2020年度　かわさき市民公益活動助成金事業](http://www2.kawasaki-shiminkatsudo.or.jp/volunt/dantai/about_koeki/)
 
@@ -22,7 +22,7 @@ permalink: /projects/
 まちの魅力をデータを使って自慢し対決する「シビックパワーバトル」。
 過去2回、その川崎版を実施してきた経験を活かし、10月に愛知県で開催される「シビックパワーバトル全国大会2020」への出場を目指してます。
 
-* [シビックパワーバトル2019](htps://cpb.openkawasaki.org/
+* [シビックパワーバトル2019](htps://cpb.openkawasaki.org/)
 * [令和2年度川崎市都市ブランド推進事業](http://www.city.kawasaki.jp/170/page/0000116848.html)
 
 ## 専修大学 課題解決型インターンシップ
