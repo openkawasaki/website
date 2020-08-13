@@ -9,6 +9,9 @@ permalink: /projects/
 今年度は社会情勢もあり、オンラインで活動をしてます。
 興味ある方はオープン川崎のSlackにご参加ください
 
+* [オープン川崎のSlack](https://openkawasaki.slack.com)
+    - [オープン川崎のSlackに参加する](https://join.slack.com/t/openkawasaki/shared_invite/zt-4hbuav6c-Ttza18ObLreA6JZ6mvcyIw)
+
 ### 地域LINEボット「小杉・新丸子グルメBot」
 地域LINEボット「小杉・新丸子グルメBot」として、地域の飲食店の情報を発信する、チャットボット開発をしてます。
 
