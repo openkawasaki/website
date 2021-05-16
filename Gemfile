@@ -29,4 +29,3 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 gem "ffi", ">= 1.9.24"
-gem "kramdown", ">= 2.3.1"
