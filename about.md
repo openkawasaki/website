@@ -17,9 +17,11 @@ permalink: /about/
 メンバー向け
 ----------
 * [ブログ(Medium)](https://medium.com/openkawasaki)
-* [チャット (Slack)](https://openkawasaki.slack.com)
+* [Slack](https://openkawasaki.slack.com)
     - [Slackに参加する](https://join.slack.com/t/openkawasaki/shared_invite/zt-4hbuav6c-Ttza18ObLreA6JZ6mvcyIw)
-    - [GitHub](https://github.com/openkawasaki/)
+* Discord
+    - [招待のリンク](https://discord.gg/zEsYCZ6)
+* [GitHub](https://github.com/openkawasaki/)
 
 関連サイト
 ----------------
