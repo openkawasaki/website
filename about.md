@@ -28,7 +28,9 @@ permalink: /about/
   - [オープン川崎](http://idea.linkdata.org/idea/idea1s332i)
   - [Code for Kawasaki](http://idea.linkdata.org/idea/idea1s198i)
 
-使用中
+<!--
+現在は使用してません
 ----
 * [Slack](https://openkawasaki.slack.com)
     - [Slackに参加する](https://join.slack.com/t/openkawasaki/shared_invite/zt-4hbuav6c-Ttza18ObLreA6JZ6mvcyIw)
+-->
